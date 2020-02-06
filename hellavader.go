@@ -14,5 +14,5 @@ func main() {
 }
 
 func nowTime(w http.ResponseWriter, r *http.Request) {
-	io.WriteString(w, "Be Careful Not To Choke On Your Convictions")
+	io.WriteString(w, "The Force is strong with this one. Vader is commenting on the skills of an X-Wing pilot that is trying to blow up the Death Star, not realizing he’s trying to kill his own son.")
 }
